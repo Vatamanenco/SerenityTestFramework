@@ -1,2 +1,4 @@
 This is our first Serenity Framework.
-GOOD LUCK!
+
+Now you have to review this.
+Thank you!
